@@ -22,7 +22,7 @@ Spotify like music player using HTML, CSS, JS, JQuery, AJAX and PHP
 ## Installation
 - Clone or download source code as zip.
 - Store all files in C:\xampp\htdocs\folder-name
-- Extract images zip and copy your music to music folder(create if not exists and you need to change SQL database and SQL queries in source code)
+- Copy your music to music folder and image thumbnails to images folder (create if not exists and you need to change SQL database and SQL queries in source code)
 - Launch XAMPP Apache and MySQL server and open phpMyAdmin.
 - Create spotify_prime Database and import spotify_prime.sql file from Database folder (Now all_tracks, playlist_1, playlist_2, users table must be created)
 - Type localhost/folder-name/create_account.php in search bar.
